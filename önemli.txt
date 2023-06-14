@@ -1,0 +1,7 @@
+Kaan Özker 200101005
+
+Siteyi çalıştırmadan önce phpmyadmin üzerinden "isletmelerlistesi" adında bir MYSQL veritabanı oluşturun.
+Ardından oluşturduğunuz veritabanının içine 6 sütünluk isletmeler adında bir tablo oluşturun.
+(Tablonun sütün adları: "id", "isletmeisim", "isletmeadres", "isletmetel", "isletmeeposta", "isletmeturu" şeklinde olmalı.)
+
+Teşekkürler, iyi günler hocam.
