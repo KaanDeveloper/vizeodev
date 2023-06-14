@@ -5,3 +5,7 @@ Ardından oluşturduğunuz veritabanının içine 6 sütünluk isletmeler adınd
 (Tablonun sütün adları: "id", "isletmeisim", "isletmeadres", "isletmetel", "isletmeeposta", "isletmeturu" şeklinde olmalı.)
 
 Teşekkürler, iyi günler hocam.
+
+Github Linki: https://github.com/KaanDeveloper/vizeodev
+
+Proje ismi .DOCX uzantılı dosyadadır.
